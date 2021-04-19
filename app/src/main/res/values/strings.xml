@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="phone_no">Phone no</string>
+</resources>
